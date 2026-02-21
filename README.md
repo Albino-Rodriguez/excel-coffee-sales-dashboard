@@ -1,7 +1,5 @@
 # Coffee Shop Sales Dashboard (Excel)
 
-![Dashboard Preview](visuals/dashboard-preview.png)
-
 ## Overview
 
 This project analyzes coffee shop sales performance using Microsoft Excel.
