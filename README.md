@@ -1,4 +1,56 @@
+# Coffee Shop Sales Dashboard (Excel)
+
+![Dashboard Preview](visuals/dashboard-preview.png)
+
+## Overview
+
+This project analyzes coffee shop sales performance using Microsoft Excel.
+Raw transactional data was cleaned, transformed, and used to build an interactive KPI-driven dashboard that enables exploration of sales trends by customer, location, and product category.
+
+---
+
 ## Dashboard Overview
-This Excel dashboard analyzes coffee shop sales performance using cleaned transactional data.  
-Key insights include the United States as the top revenue-generating market, medium roast as the most popular category, and the top five customers contributing a significant portion of total revenue. Interactive filters allow dynamic exploration of trends by customer, product, and location.
+
+Key insights from the analysis include:
+
+* United States generates the highest total sales.
+* Medium roast is the most popular product category.
+* Top 5 customers contribute a significant portion of overall revenue.
+* Interactive slicers allow dynamic filtering across multiple dimensions.
+
+---
+
+## KPIs Tracked
+
+* Total Sales
+* Orders Count
+* Average Order Value
+
+---
+
+## Tools Used
+
+* Microsoft Excel
+* PivotTables
+* Data Cleaning
+* Dashboard Design
+* Data Visualization
+
+---
+
+## Project Structure
+
+dashboard/ → Final Excel dashboard
+data/ → Raw dataset used for cleaning
+visuals/ → Dashboard preview image
+
+---
+
+## Skills Demonstrated
+
+* Data cleaning and transformation
+* Business-focused dashboard design
+* KPI development
+* Analytical storytelling
+
 ![Dashboard Preview](visuals/Dashboard-Preview.jpg)
